@@ -5,4 +5,3 @@ if(num%2 == 0){
 else{
     console.log("odd")
 }
-console.log("program_Ends")
